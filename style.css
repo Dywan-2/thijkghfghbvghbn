@@ -1,0 +1,18 @@
+body{
+    color: aqua;
+    background-color: blue;
+}
+.title{
+    color: blue;
+    width: 80%;
+    font-size: 40px;
+}
+.items,#object,#accuracy{
+    color: lightgreen;
+    font-size: 15px;
+}
+#cam{
+    border:2px solid cyan ;
+width: 350px;
+height: 350px;
+}
